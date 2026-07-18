@@ -48,13 +48,33 @@ researcher = {
 
 ## 💼 Research Experience
 
-**Bioinformatics Research Analyst** | Era's Lucknow Medical College & Hospital *(May 2023 – Present)*
+### Bioinformatics Research Analyst | **Era's Lucknow Medical College & Hospital**
+**Full-time** | *May 2023 – Present* | Lucknow, Uttar Pradesh, India
 
 - Conducting advanced bioinformatics and cheminformatics analyses across multiple disease-focused projects
 - Designed and curated comprehensive biological and chemical databanks for Rheumatoid Arthritis, Dengue, Psoriasis, Thyroid Disorders, Diabetes, Prostate Cancer, Alzheimer's, Parkinson's Disease, and Autism Spectrum Disorder
 - Performed molecular docking, ADMET profiling, MM-PBSA calculations, and MD simulations using industry-standard tools
 - Collaborated with interdisciplinary teams to support manuscript preparation and scientific publications
 - Maintained natural compounds library and ensured data accuracy, reproducibility, and validation
+
+### Research Intern | **University of Allahabad**
+**Full-time** | *Apr 2022 – Apr 2023* | Prayagraj, Uttar Pradesh, India
+
+- Conducted research on fungus-derived bioactive compounds as potential main protease inhibitors of SARS-CoV-2
+- Performed molecular docking and molecular dynamics simulations
+- Contributed to publication: "Identification of the most potent bioactive natural compound as main protease inhibitor of SARS-CoV-2"
+
+### Dissertation Project | **University of Allahabad**
+*May 2022* | Prayagraj, Uttar Pradesh, India
+
+- **Title:** "In Silico Identification of phytochemical compounds as potential inhibitors of the Main protease SARS-CoV-2"
+- Conducted comprehensive in-silico analysis and virtual screening of phytochemical compounds
+
+### Mini Project | **University of Allahabad**
+**Full-time** | *Jan 2022 – Apr 2022* | Prayagraj, Uttar Pradesh, India
+
+- **Title:** "Study of Phytochemical compounds as potential inhibitor for main protease"
+- Performed structural analysis and drug-likeness evaluation
 
 ---
 
@@ -124,42 +144,20 @@ researcher = {
 <img src="https://img.shields.io/badge/ANNOVAR-8E44AD?style=for-the-badge"/>
 </p>
 
-### Bioinformatics Libraries
-<p align="left">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RDKit-E74C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Biopython-117A65?style=for-the-badge"/>
-</p>
-
 ---
 
 ## 📚 Education
 
-## 📚 Education
+### Master of Science (M.Sc.) — Bioinformatics
+**University of Allahabad** | *Jan 2020 – May 2022* | Prayagraj, Uttar Pradesh, India
 
-<div align="center">
+- **CGPA:** 9.42/10 (Distinction)
+- Specialized in Computational Drug Discovery and Structural Bioinformatics
 
-| 🎓 Degree | 🏫 Institution | 📅 Year | 🎯 Performance |
-|:-----------|:----------------|:------:|:---------------:|
-| M.Sc. Bioinformatics | University of Allahabad | 2022 | CGPA: 9.42/10 |
-| B.Sc. Chemistry & Zoology | University of Allahabad | 2020 | 66% |
+### Bachelor of Science (B.Sc.) — Chemistry & Zoology
+**University of Allahabad** | *Jul 2017 – Dec 2020* | Prayagraj, Uttar Pradesh, India
 
-</div>
+- **Percentage:** 66%
+- Strong foundation in analytical chemistry and biological sciences
 
 ---
-
-## 💡 Philosophy
-
-<div align="center">
-
-> *"Bioinformatics is the bridge between biology and computation—where data becomes discovery and sequences become solutions."*
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:148F77,100:1A5276&height=100&section=footer" width="100%"/>
-</div>
