@@ -22,15 +22,15 @@
 
 ## 👩‍🔬 About Me
 
-I'm a **Bioinformatics Research Analyst** with a strong foundation in computational biology and structural bioinformatics. My expertise encompasses molecular docking, molecular dynamics simulations, MM-PBSA calculations, ADMET analysis, and next-generation sequencing (NGS) data analysis to advance data-driven drug discovery initiatives.
+I am a **Bioinformatics Research Analyst** specializing in computational drug discovery and structural biology. My work focuses on leveraging molecular modeling, sequence analysis, and systems biology approaches to accelerate the identification of novel drug candidates and therapeutic targets.
 
-My research leverages computational approaches to bridge genomics and structural biology, with a particular focus on integrating multi-omics data with structural bioinformatics methodologies. This integrative strategy enables the systematic identification of potential therapeutic targets and supports translational research toward precision medicine applications.
+At **Era's Lucknow Medical College & Hospital**, I apply advanced computational methodologies to disease biology research, integrating structural bioinformatics with genomic data analysis. My research combines in-silico molecular simulations with high-throughput data interpretation, enabling a comprehensive understanding of molecular mechanisms underlying disease pathogenesis and drug efficacy.
 
-**Current Position:** Bioinformatics Research Analyst at **Era's Lucknow Medical College & Hospital** | 3+ years in computational drug discovery
+**Background:** M.Sc. Bioinformatics (CGPA: 9.42/10), University of Allahabad | ICAR-JRF Fellow (2022) | CRET-22 Qualified
 
-**Research Domains:** Computational Biology · Structural Bioinformatics · NGS Data Analysis
+**Research Specializations:** Computational Drug Discovery · Structural Bioinformatics · NGS & Genomics Analysis
 
-**Academic Credentials:** M.Sc. Bioinformatics (CGPA: 9.42/10), University of Allahabad | ICAR-JRF (2022) | CRET-22
+**Impact:** 2 First-author Publications | Active Collaborations in Cancer & Infectious Disease Research
 
 ---
 
