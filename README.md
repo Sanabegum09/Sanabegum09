@@ -4,13 +4,7 @@
 
 </div>
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A5276&center=true&vCenter=true&width=700&lines=🔬+Structural+Bioinformatics+%26+Drug+Discovery;💊+Molecular+Docking+%7C+MD+Simulation+%7C+MM-PBSA;🧬+RNA-seq+%7C+miRNA-seq+%7C+DNA-seq+%7C+NGS;📄+2+First-Author+Publications+%7C+ICAR-JRF+2022;🏛+Era's+Lucknow+Medical+College+%26+Hospital" alt="Typing SVG"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
