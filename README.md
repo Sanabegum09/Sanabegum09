@@ -22,24 +22,15 @@
 
 ## 👩‍🔬 About Me
 
-**Bioinformatics Research Analyst** with deep expertise in computational drug discovery and structural bioinformatics. Currently at **Era's Lucknow Medical College & Hospital**, leveraging 3+ years of experience in molecular modeling, NGS analysis, and drug discovery pipelines.
+I'm a **Bioinformatics Research Analyst** with a strong foundation in computational biology and structural bioinformatics. My expertise encompasses molecular docking, molecular dynamics simulations, MM-PBSA calculations, ADMET analysis, and next-generation sequencing (NGS) data analysis to advance data-driven drug discovery initiatives.
 
-**Academic Background:** M.Sc. Bioinformatics (CGPA: 9.42/10) from University of Allahabad | ICAR-JRF (2022) | CRET-22
+My research leverages computational approaches to bridge genomics and structural biology, with a particular focus on integrating multi-omics data with structural bioinformatics methodologies. This integrative strategy enables the systematic identification of potential therapeutic targets and supports translational research toward precision medicine applications.
 
-**Research Focus:** Cancer Biology · Neurodegeneration · Infectious Diseases · Metabolic Disorders · Autoimmune Conditions
+**Current Position:** Bioinformatics Research Analyst at **Era's Lucknow Medical College & Hospital** | 3+ years in computational drug discovery
 
-**Core Expertise:**
-- Molecular Docking & Virtual Screening
-- Molecular Dynamics (GROMACS) & MM-PBSA Analysis
-- ADMET Profiling & Drug-likeness Assessment
-- NGS Data Analysis (RNA-seq, miRNA-seq, DNA-seq)
-- Homology Modeling (MODELLER, AlphaFold2)
+**Research Domains:** Computational Biology · Structural Bioinformatics · NGS Data Analysis
 
-**Publications:** 2 First-author Published | 2 Under Review
-
-**Seeking:** Fully-funded PhD positions | Collaborative research opportunities | Senior bioinformatics roles
-
-**Location:** Lucknow, Uttar Pradesh, India 🇮🇳
+**Academic Credentials:** M.Sc. Bioinformatics (CGPA: 9.42/10), University of Allahabad | ICAR-JRF (2022) | CRET-22
 
 ---
 
