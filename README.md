@@ -18,9 +18,9 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/sana-begum-964a57215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://www.researchgate.net/profile/Sana-Begum"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
+<a href="https://www.researchgate.net/profile/Sana-Begum-5?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:begumsana686@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=xYdaFREAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
 
 </div>
 
@@ -213,12 +213,12 @@ researcher = {
 <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.researchgate.net/profile/Sana-Begum">
+<a href="https://www.researchgate.net/profile/Sana-Begum-5?ev=hdr_xprf">
 <img src="https://img.shields.io/badge/ResearchGate-View_My_Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:begumsana686@gmail.com">
-<img src="https://img.shields.io/badge/Email-Drop_A_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://scholar.google.com/citations?user=xYdaFREAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
 
 <br/><br/>
