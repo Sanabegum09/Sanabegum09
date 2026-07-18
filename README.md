@@ -51,30 +51,29 @@ researcher = {
 ### Bioinformatics Research Analyst | **Era's Lucknow Medical College & Hospital**
 **Full-time** | *May 2023 – Present* | Lucknow, Uttar Pradesh, India
 
-- Conducting advanced bioinformatics and cheminformatics analyses across multiple disease-focused projects
-- Designed and curated comprehensive biological and chemical databanks for Rheumatoid Arthritis, Dengue, Psoriasis, Thyroid Disorders, Diabetes, Prostate Cancer, Alzheimer's, Parkinson's Disease, and Autism Spectrum Disorder
-- Performed molecular docking, ADMET profiling, MM-PBSA calculations, and MD simulations using industry-standard tools
-- Collaborated with interdisciplinary teams to support manuscript preparation and scientific publications
-- Maintained natural compounds library and ensured data accuracy, reproducibility, and validation
+• Molecular docking & virtual screening | ADMET profiling | MM-PBSA | MD simulations
+• Biological/chemical databank curation | Natural compounds library management
+• Multi-disease projects: RA, Dengue, Psoriasis, Thyroid, Diabetes, Cancer, Neurodegeneration
+• Manuscript preparation & scientific publications | Data validation & reproducibility
 
 ### Research Intern | **University of Allahabad**
 **Full-time** | *Apr 2022 – Apr 2023* | Prayagraj, Uttar Pradesh, India
 
-- Conducted research on fungus-derived bioactive compounds as potential main protease inhibitors of SARS-CoV-2
-- Performed molecular docking and molecular dynamics simulations
-- Contributed to publication: "Identification of the most potent bioactive natural compound as main protease inhibitor of SARS-CoV-2"
+• SARS-CoV-2 main protease inhibitor discovery | Fungus-derived bioactive compounds
+• Molecular docking | Molecular dynamics simulations
+• Published research: "Most potent bioactive natural compound as main protease inhibitor"
 
 ### Dissertation Project | **University of Allahabad**
 *May 2022* | Prayagraj, Uttar Pradesh, India
 
-- **Title:** "In Silico Identification of phytochemical compounds as potential inhibitors of the Main protease SARS-CoV-2"
-- Conducted comprehensive in-silico analysis and virtual screening of phytochemical compounds
+• In-silico identification of phytochemical inhibitors for SARS-CoV-2 main protease
+• Virtual screening & computational analysis
 
 ### Mini Project | **University of Allahabad**
 **Full-time** | *Jan 2022 – Apr 2022* | Prayagraj, Uttar Pradesh, India
 
-- **Title:** "Study of Phytochemical compounds as potential inhibitor for main protease"
-- Performed structural analysis and drug-likeness evaluation
+• Phytochemical compounds as main protease inhibitors
+• Structural analysis | Drug-likeness evaluation
 
 ---
 
@@ -161,3 +160,17 @@ researcher = {
 - Strong foundation in analytical chemistry and biological sciences
 
 ---
+
+## 🎯 Philosophy
+
+<div align="center">
+
+> **"Success is not measured by desire alone—it is forged through relentless dedication, strategic effort, and the commitment to transform vision into scientific impact."**
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:148F77,100:1A5276&height=100&section=footer" width="100%"/>
+</div>
