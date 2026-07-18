@@ -22,27 +22,24 @@
 
 ## 👩‍🔬 About Me
 
-```python
-researcher = {
-    "name"         : "Sana Begum",
-    "role"         : "Bioinformatics Research Analyst",
-    "institution"  : "Era's Lucknow Medical College & Hospital, Lucknow",
-    "education"    : "M.Sc. Bioinformatics — University of Allahabad (CGPA: 9.42/10)",
-    "qualifications": ["ICAR-JRF 2022", "CRET-22"],
-    "publications" : "2 first-author published | 2 under review",
-    "experience"   : "3+ years in computational drug discovery",
-    "expertise"    : [
-        "Molecular Docking & Virtual Screening",
-        "MD Simulation (GROMACS) & MM-PBSA",
-        "ADMET Analysis (pkCSM + SwissADME)",
-        "RNA-seq | miRNA-seq | DNA-seq (NGS)",
-        "Homology Modelling (MODELLER, AlphaFold2)",
-    ],
-    "disease_areas": "Cancer · Neurodegeneration · Infectious Disease · Metabolic · Autoimmune",
-    "location"     : "Lucknow, Uttar Pradesh, India 🇮🇳",
-    "open_to"      : "Fully funded PhD | Collaborative research | Senior Research roles",
-}
-```
+**Bioinformatics Research Analyst** with deep expertise in computational drug discovery and structural bioinformatics. Currently at **Era's Lucknow Medical College & Hospital**, leveraging 3+ years of experience in molecular modeling, NGS analysis, and drug discovery pipelines.
+
+**Academic Background:** M.Sc. Bioinformatics (CGPA: 9.42/10) from University of Allahabad | ICAR-JRF (2022) | CRET-22
+
+**Research Focus:** Cancer Biology · Neurodegeneration · Infectious Diseases · Metabolic Disorders · Autoimmune Conditions
+
+**Core Expertise:**
+- Molecular Docking & Virtual Screening
+- Molecular Dynamics (GROMACS) & MM-PBSA Analysis
+- ADMET Profiling & Drug-likeness Assessment
+- NGS Data Analysis (RNA-seq, miRNA-seq, DNA-seq)
+- Homology Modeling (MODELLER, AlphaFold2)
+
+**Publications:** 2 First-author Published | 2 Under Review
+
+**Seeking:** Fully-funded PhD positions | Collaborative research opportunities | Senior bioinformatics roles
+
+**Location:** Lucknow, Uttar Pradesh, India 🇮🇳
 
 ---
 
